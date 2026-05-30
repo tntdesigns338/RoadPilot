@@ -1,6 +1,3 @@
-/** @type {import('next').NextConfig} */
-const nextConfig = {
-  outputFileTracingRoot: process.cwd()
-};
+const nextConfig = {};
 
 export default nextConfig;
